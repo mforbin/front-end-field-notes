@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+/# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -21,18 +21,16 @@
 title: Front End Feild Notes
 email: martyvt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Web development is fun! Sometimes it's difficult, but successfully solving problems is where it's at, you know what I mean?
+  Web development is fun! Sometimes it's difficult, but so what?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  mforbin
+github_username:  mcorbin
 
 # Build settings
-# theme: minima
-remote_theme: artemsheludko/flexible-jekyll
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
